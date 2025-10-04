@@ -1,0 +1,8 @@
+*.log
+*.env
+*.tmp
+*.temp
+*.swp
+*~
+.DS_Store
+Thumbs.db
